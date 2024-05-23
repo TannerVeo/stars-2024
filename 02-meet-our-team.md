@@ -127,6 +127,15 @@ nav_order: 2
 (please add your profiles)
 
 ***
+### **Tanner Veo**
+<img 
+  style="float: right;" 
+  src="https://github.com/TannerVeo/-TannerVeo-.github.io/blob/main/DSC01545%20(5).jpg?raw=true" 
+  width="132" height="125">
+  
+  * Environmental Science and Research - Graduate
+  * <a href="mailto: Tannerveo@gmail.com" target="_blank">**Email**</a>
+  * <a href="https://tannerveo.github.io/-TannerVeo-.github.io/" target="_blank">**Website**</a>
 
 ## **Advanced Interns** 
 (please add your profiles)
